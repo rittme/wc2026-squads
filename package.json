@@ -1,0 +1,10 @@
+{
+  "name": "wc26-players",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "build:accessory": "node scripts/accessory/accessory-script.mjs",
+    "serve": "npx --yes serve src"
+  }
+}

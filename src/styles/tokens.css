@@ -1,0 +1,81 @@
+:root {
+  color-scheme: light;
+
+  /* Neutrals: warm stone, not pure black/white */
+  --color-bg: #faf9f6;
+  --color-surface: #ffffff;
+  --color-surface-sunken: #f1efe9;
+  --color-border: #e2ded3;
+  --color-text: #1c1b18;
+  --color-text-muted: #6b6760;
+  --color-text-faint: #9b968c;
+
+  /* Single locked accent: pitch green */
+  --color-accent: #1e6f50;
+  --color-accent-strong: #154f38;
+  --color-accent-tint: #e7f2ec;
+
+  --font-display: "Bricolage Grotesque", "IBM Plex Sans", system-ui, sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.75rem;
+  --font-size-2xl: 2.5rem;
+  --font-size-3xl: 3.25rem;
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-pill: 999px;
+
+  --motion-fast: 140ms;
+  --motion-base: 220ms;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+
+  /* Position chips: one accent per role, used only in the squad table */
+  --pos-gk: #b8860b;
+  --pos-gk-tint: #fbf1dc;
+  --pos-df: #2a5fa5;
+  --pos-df-tint: #e8eff8;
+  --pos-mf: var(--color-accent);
+  --pos-mf-tint: var(--color-accent-tint);
+  --pos-fw: #b3402c;
+  --pos-fw-tint: #fbeae6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --color-bg: #15161a;
+    --color-surface: #1d1f24;
+    --color-surface-sunken: #121317;
+    --color-border: #2c2e34;
+    --color-text: #f1f0ec;
+    --color-text-muted: #a3a098;
+    --color-text-faint: #6f6c64;
+
+    --color-accent: #4caf85;
+    --color-accent-strong: #6fc89e;
+    --color-accent-tint: #1b2d24;
+
+    --pos-gk: #d9a73b;
+    --pos-gk-tint: #2c2618;
+    --pos-df: #6ea3e0;
+    --pos-df-tint: #1a2532;
+    --pos-fw: #e08469;
+    --pos-fw-tint: #2c1f1b;
+  }
+}

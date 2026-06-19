@@ -1,0 +1,3495 @@
+[
+  {
+    "type": "team",
+    "name": "Mexico",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/teams/mexico.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "South Africa",
+    "countryName": "South Africa",
+    "targetPath": "data/crests/teams/south-africa.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Korea Republic",
+    "countryName": "Korea Republic",
+    "targetPath": "data/crests/teams/korea-republic.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Czechia",
+    "countryName": "Czechia",
+    "targetPath": "data/crests/teams/czechia.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Canada",
+    "countryName": "Canada",
+    "targetPath": "data/crests/teams/canada.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Bosnia & Herzegovina",
+    "countryName": "Bosnia & Herzegovina",
+    "targetPath": "data/crests/teams/bosnia-herzegovina.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Qatar",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/teams/qatar.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Switzerland",
+    "countryName": "Switzerland",
+    "targetPath": "data/crests/teams/switzerland.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Brazil",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/teams/brazil.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Morocco",
+    "countryName": "Morocco",
+    "targetPath": "data/crests/teams/morocco.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Haiti",
+    "countryName": "Haiti",
+    "targetPath": "data/crests/teams/haiti.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Scotland",
+    "countryName": "Scotland",
+    "targetPath": "data/crests/teams/scotland.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "United States",
+    "countryName": "United States",
+    "targetPath": "data/crests/teams/united-states.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Paraguay",
+    "countryName": "Paraguay",
+    "targetPath": "data/crests/teams/paraguay.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Australia",
+    "countryName": "Australia",
+    "targetPath": "data/crests/teams/australia.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Türkiye",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/teams/turkiye.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Germany",
+    "countryName": "Germany",
+    "targetPath": "data/crests/teams/germany.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Curaçao",
+    "countryName": "Curaçao",
+    "targetPath": "data/crests/teams/curacao.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Cote d'Ivoire",
+    "countryName": "Cote d'Ivoire",
+    "targetPath": "data/crests/teams/cote-d-ivoire.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Ecuador",
+    "countryName": "Ecuador",
+    "targetPath": "data/crests/teams/ecuador.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Netherlands",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/teams/netherlands.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Japan",
+    "countryName": "Japan",
+    "targetPath": "data/crests/teams/japan.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Sweden",
+    "countryName": "Sweden",
+    "targetPath": "data/crests/teams/sweden.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Tunisia",
+    "countryName": "Tunisia",
+    "targetPath": "data/crests/teams/tunisia.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Belgium",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/teams/belgium.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Egypt",
+    "countryName": "Egypt",
+    "targetPath": "data/crests/teams/egypt.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "IR Iran",
+    "countryName": "IR Iran",
+    "targetPath": "data/crests/teams/ir-iran.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "New Zealand",
+    "countryName": "New Zealand",
+    "targetPath": "data/crests/teams/new-zealand.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Spain",
+    "countryName": "Spain",
+    "targetPath": "data/crests/teams/spain.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Cabo Verde",
+    "countryName": "Cabo Verde",
+    "targetPath": "data/crests/teams/cabo-verde.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Saudi Arabia",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/teams/saudi-arabia.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Uruguay",
+    "countryName": "Uruguay",
+    "targetPath": "data/crests/teams/uruguay.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "France",
+    "countryName": "France",
+    "targetPath": "data/crests/teams/france.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Senegal",
+    "countryName": "Senegal",
+    "targetPath": "data/crests/teams/senegal.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Iraq",
+    "countryName": "Iraq",
+    "targetPath": "data/crests/teams/iraq.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Norway",
+    "countryName": "Norway",
+    "targetPath": "data/crests/teams/norway.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Argentina",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/teams/argentina.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Algeria",
+    "countryName": "Algeria",
+    "targetPath": "data/crests/teams/algeria.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Austria",
+    "countryName": "Austria",
+    "targetPath": "data/crests/teams/austria.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Jordan",
+    "countryName": "Jordan",
+    "targetPath": "data/crests/teams/jordan.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Portugal",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/teams/portugal.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Congo DR",
+    "countryName": "Congo DR",
+    "targetPath": "data/crests/teams/congo-dr.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Uzbekistan",
+    "countryName": "Uzbekistan",
+    "targetPath": "data/crests/teams/uzbekistan.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Colombia",
+    "countryName": "Colombia",
+    "targetPath": "data/crests/teams/colombia.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "England",
+    "countryName": "England",
+    "targetPath": "data/crests/teams/england.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Croatia",
+    "countryName": "Croatia",
+    "targetPath": "data/crests/teams/croatia.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Ghana",
+    "countryName": "Ghana",
+    "targetPath": "data/crests/teams/ghana.svg",
+    "found": true
+  },
+  {
+    "type": "team",
+    "name": "Panama",
+    "countryName": "Panama",
+    "targetPath": "data/crests/teams/panama.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CD Guadalajara",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-guadalajara.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "PAOK Saloniki",
+    "countryName": "Greece",
+    "targetPath": "data/crests/clubs/greece-paok-saloniki.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Lokomotiv Moscow",
+    "countryName": "Russia",
+    "targetPath": "data/crests/clubs/russia-lokomotiv-moscow.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Fenerbahçe SK",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-fenerbahce.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Genoa CFC",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-genoa.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CF Cruz Azul",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-cruz-azul.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Real Betis",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-real-betis.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Fulham FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-fulham.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Deportivo Toluca FC",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-deportivo-toluca.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AC Milan",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-milan.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Club Santos Laguna",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-santos-laguna.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AEL Limassol",
+    "countryName": "Cyprus",
+    "targetPath": "data/crests/clubs/cyprus-ael-limassol.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Club América",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-america.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Qadsiah FC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-qadsiah.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AEK Athens",
+    "countryName": "Greece",
+    "targetPath": "data/crests/clubs/greece-aek-athens.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Atlético De Madrid",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-atletico-de-madrid.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Club Tijuana",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-tijuana.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AZ Alkmaar",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-az-alkmaar.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "RSC Anderlecht",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-rsc-anderlecht.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Pumas UNAM",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-pumas-unam.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Dynamo Moscow",
+    "countryName": "Russia",
+    "targetPath": "data/crests/clubs/russia-dynamo-moscow.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Mamelodi Sundowns FC",
+    "countryName": "South Africa",
+    "targetPath": "data/crests/clubs/south-africa-mamelodi-sundowns.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Polokwane City FC",
+    "countryName": "South Africa",
+    "targetPath": "data/crests/clubs/south-africa-polokwane-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Orlando Pirates FC",
+    "countryName": "South Africa",
+    "targetPath": "data/crests/clubs/south-africa-orlando-pirates.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Burnley FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-burnley.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CD Tondela",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-tondela.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Chicago Fire FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-chicago-fire.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Molde FK",
+    "countryName": "Norway",
+    "targetPath": "data/crests/clubs/norway-molde.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Hannover 96",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-hannover-96.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Siwelele FC",
+    "countryName": "South Africa",
+    "targetPath": "data/crests/clubs/south-africa-siwelele.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Philadelphia Union",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-philadelphia-union.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Kaizer Chiefs FC",
+    "countryName": "South Africa",
+    "targetPath": "data/crests/clubs/south-africa-kaizer-chiefs.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Tokyo",
+    "countryName": "Japan",
+    "targetPath": "data/crests/clubs/japan-tokyo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Midtjylland",
+    "countryName": "Denmark",
+    "targetPath": "data/crests/clubs/denmark-midtjylland.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Gangwon FC",
+    "countryName": "Korea Republic",
+    "targetPath": "data/crests/clubs/korea-republic-gangwon.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Bayern München",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-bayern-munchen.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Kashima Antlers",
+    "countryName": "Japan",
+    "targetPath": "data/crests/clubs/japan-kashima-antlers.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Feyenoord Rotterdam",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-feyenoord-rotterdam.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "LAFC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-lafc.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Birmingham City FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-birmingham-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "1. FSV Mainz 05",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-1-fsv-mainz-05.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Wolverhampton Wanderers FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-wolverhampton-wanderers.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Jeonbuk Hyundai Motors FC",
+    "countryName": "Korea Republic",
+    "targetPath": "data/crests/clubs/korea-republic-jeonbuk-hyundai-motors.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FK Austria Wien",
+    "countryName": "Austria",
+    "targetPath": "data/crests/clubs/austria-austria-wien.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Daejeon Hana Citizen FC",
+    "countryName": "Korea Republic",
+    "targetPath": "data/crests/clubs/korea-republic-daejeon-hana-citizen.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Zhejiang FC",
+    "countryName": "China",
+    "targetPath": "data/crests/clubs/china-zhejiang.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Stoke City FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-stoke-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Beşiktaş JK",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-besiktas-jk.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Paris Saint-Germain",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-paris-saint-germain.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Celtic FC",
+    "countryName": "Scotland",
+    "targetPath": "data/crests/clubs/scotland-celtic.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Ulsan HD",
+    "countryName": "Korea Republic",
+    "targetPath": "data/crests/clubs/korea-republic-ulsan-hd.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FK Crvena Zvezda",
+    "countryName": "Serbia",
+    "targetPath": "data/crests/clubs/serbia-crvena-zvezda.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Borussia Mönchengladbach",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-borussia-monchengladbach.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Swansea City AFC",
+    "countryName": "Wales",
+    "targetPath": "data/crests/clubs/wales-swansea-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "PSV Eindhoven",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-psv-eindhoven.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SK Slavia Praha",
+    "countryName": "Czechia",
+    "targetPath": "data/crests/clubs/czechia-slavia-praha.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "TSG Hoffenheim",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-tsg-hoffenheim.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Hradec Králové",
+    "countryName": "Czechia",
+    "targetPath": "data/crests/clubs/czechia-hradec-kralove.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Bayer 04 Leverkusen",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-bayer-04-leverkusen.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AC Sparta Praha",
+    "countryName": "Czechia",
+    "targetPath": "data/crests/clubs/czechia-sparta-praha.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Viktoria Plzeň",
+    "countryName": "Czechia",
+    "targetPath": "data/crests/clubs/czechia-viktoria-plzen.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Olympique Lyonnais",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-olympique-lyonnais.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "West Ham United FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-west-ham-united.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SC Braga",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-braga.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Inter Miami CF",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-inter-miami.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Middlesbrough FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-middlesbrough.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FCV Dender EH",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-fcv-dender-eh.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "US Sassuolo",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-sassuolo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Southampton FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-southampton.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Juventus FC",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-juventus.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Hull City FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-hull-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Villarreal CF",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-villarreal.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Rangers FC",
+    "countryName": "Scotland",
+    "targetPath": "data/crests/clubs/scotland-rangers.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "OGC Nice",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-ogc-nice.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Orlando City SC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-orlando-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Barnsley",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-barnsley.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Norwich City FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-norwich-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Toronto FC",
+    "countryName": "Canada",
+    "targetPath": "data/crests/clubs/canada-toronto.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "HNK Hajduk Split",
+    "countryName": "Croatia",
+    "targetPath": "data/crests/clubs/croatia-hnk-hajduk-split.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Royale Union Saint-Gilloise",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-royale-union-saint-gilloise.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Austin FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-austin.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC St. Pauli",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-st-pauli.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Gaziantep FK",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-gaziantep.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "UC Sampdoria",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-uc-sampdoria.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Atalanta Bergamo",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-atalanta-bergamo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Brøndby IF",
+    "countryName": "Denmark",
+    "targetPath": "data/crests/clubs/denmark-br-ndby-if.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SL Benfica",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-sl-benfica.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "BSC Young Boys",
+    "countryName": "Switzerland",
+    "targetPath": "data/crests/clubs/switzerland-bsc-young-boys.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Jagiellonia Białystok",
+    "countryName": "Poland",
+    "targetPath": "data/crests/clubs/poland-jagiellonia-bia-ystok.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "VfB Stuttgart",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-vfb-stuttgart.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Schalke 04",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-schalke-04.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FK Borac Banja Luka",
+    "countryName": "Bosnia & Herzegovina",
+    "targetPath": "data/crests/clubs/bosnia-herzegovina-borac-banja-luka.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "FC Astana",
+    "countryName": "Kazakhstan",
+    "targetPath": "data/crests/clubs/kazakhstan-astana.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Pafos FC",
+    "countryName": "Cyprus",
+    "targetPath": "data/crests/clubs/cyprus-pafos.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Karlsruher SC",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-karlsruher.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Red Bull Salzburg",
+    "countryName": "Austria",
+    "targetPath": "data/crests/clubs/austria-red-bull-salzburg.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "HNK Rijeka",
+    "countryName": "Croatia",
+    "targetPath": "data/crests/clubs/croatia-hnk-rijeka.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SK Sturm Graz",
+    "countryName": "Austria",
+    "targetPath": "data/crests/clubs/austria-sturm-graz.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Universitatea Cluj",
+    "countryName": "Romania",
+    "targetPath": "data/crests/clubs/romania-universitatea-cluj.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Slovan Liberec",
+    "countryName": "Czechia",
+    "targetPath": "data/crests/clubs/czechia-slovan-liberec.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Rayyan SC",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/clubs/qatar-al-rayyan.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Sadd SC",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/clubs/qatar-al-sadd.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Wakrah SC",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/clubs/qatar-al-wakrah.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Arabi SC",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/clubs/qatar-al-arabi.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Duhail SC",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/clubs/qatar-al-duhail.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Gharafa SC",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/clubs/qatar-al-gharafa.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Cultural Leonesa",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-cultural-leonesa.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Shamal SC",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/clubs/qatar-al-shamal.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Borussia Dortmund",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-borussia-dortmund.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Hamburger SV",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-hamburger-sv.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Internazionale Milano",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-internazionale-milano.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AS Monaco",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-monaco.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Stade Rennais FC",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-stade-rennais.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Bologna FC",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-bologna.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SC Freiburg",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-freiburg.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sunderland AFC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-sunderland.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Nottingham Forest FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-nottingham-forest.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Lorient",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-lorient.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sevilla FC",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-sevilla.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Valencia CF",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-valencia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Leeds United FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-leeds-united.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Pisa SC",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-pisa.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Augsburg",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-augsburg.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Eintracht Frankfurt",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-eintracht-frankfurt.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Fortuna Düsseldorf",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-fortuna-dusseldorf.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Liverpool FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-liverpool.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Arsenal FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-arsenal.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Manchester United FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-manchester-united.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CR Flamengo",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-cr-flamengo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Real Madrid C. F.",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-real-madrid-c-f.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Newcastle United FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-newcastle-united.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Santos FC",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-santos.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Barcelona",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-barcelona.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Grêmio FBPA",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-gremio-fbpa.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Zenit St. Petersburg",
+    "countryName": "Russia",
+    "targetPath": "data/crests/clubs/russia-zenit-st-petersburg.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Ittihad",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-ittihad.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Botafogo",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-botafogo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Ahli FC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-ahli.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Brentford FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-brentford.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AFC Bournemouth",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-bournemouth.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Hilal SC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-hilal.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Fateh SC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-fateh.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Lille OSC",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-lille-osc.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Girona FC",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-girona.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Ain FC",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-al-ain.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "RS Berkane",
+    "countryName": "Morocco",
+    "targetPath": "data/crests/clubs/morocco-rs-berkane.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "KRC Genk",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-krc-genk.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "RC Strasbourg",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-strasbourg.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Angers SCO",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-angers-sco.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Crystal Palace FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-crystal-palace.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Ahly FC",
+    "countryName": "Egypt",
+    "targetPath": "data/crests/clubs/egypt-al-ahly.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Olympiacos FC",
+    "countryName": "Greece",
+    "targetPath": "data/crests/clubs/greece-olympiacos.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "ASFAR",
+    "countryName": "Morocco",
+    "targetPath": "data/crests/clubs/morocco-asfar.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "AS Roma",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-roma.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "KV Mechelen",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-kv-mechelen.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SC Bastia",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-bastia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "LDU Quito",
+    "countryName": "Ecuador",
+    "targetPath": "data/crests/clubs/ecuador-ldu-quito.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Lugano",
+    "countryName": "Switzerland",
+    "targetPath": "data/crests/clubs/switzerland-lugano.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "El Paso Locomotive FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-el-paso-locomotive.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AS Nancy",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-nancy.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Esteghlal Tehran FC",
+    "countryName": "Iran",
+    "targetPath": "data/crests/clubs/iran-esteghlal-tehran.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Dallas",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-dallas.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Sochaux-Montbéliard",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-sochaux-montbeliard.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Colorado Springs Switchbacks FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-colorado-springs-switchbacks.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Almere City FC",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-almere-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Ferencvárosi TC",
+    "countryName": "Hungary",
+    "targetPath": "data/crests/clubs/hungary-ferencvarosi-tc.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Vizela",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-vizela.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Çaykur Rizespor",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-caykur-rizespor.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AJ Auxerre",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-aj-auxerre.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "KAA Gent",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-kaa-gent.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Cosmos Koblenz",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-cosmos-koblenz.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "SV Zulte Waregem",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-sv-zulte-waregem.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "FC Tatran Prešov",
+    "countryName": "Slovakia",
+    "targetPath": "data/crests/clubs/slovakia-tatran-presov.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Violette AC",
+    "countryName": "Haiti",
+    "targetPath": "data/crests/clubs/haiti-violette.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "SSC Napoli",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-napoli.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Hibernian FC",
+    "countryName": "Scotland",
+    "targetPath": "data/crests/clubs/scotland-hibernian.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Aston Villa FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-aston-villa.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Charlton Athletic FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-charlton-athletic.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Torino FC",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-torino.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Ettifaq FC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-ettifaq.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Wrexham AFC",
+    "countryName": "Wales",
+    "targetPath": "data/crests/clubs/wales-wrexham.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Ipswich Town FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-ipswich-town.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Heart Of Midlothian FC",
+    "countryName": "Scotland",
+    "targetPath": "data/crests/clubs/scotland-heart-of-midlothian.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Everton FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-everton.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Kilmarnock FC",
+    "countryName": "Scotland",
+    "targetPath": "data/crests/clubs/scotland-kilmarnock.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "GNK Dinamo Zagreb",
+    "countryName": "Croatia",
+    "targetPath": "data/crests/clubs/croatia-gnk-dinamo-zagreb.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "New England Revolution",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-new-england-revolution.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Cincinnatti",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-cincinnatti.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Charlotte FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-charlotte.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Vancouver Whitecaps FC",
+    "countryName": "Canada",
+    "targetPath": "data/crests/clubs/canada-vancouver-whitecaps.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Seattle Sounders FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-seattle-sounders.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Columbus Crew",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-columbus-crew.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Coventry City FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-coventry-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Olympique Marseille",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-olympique-marseille.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Toulouse FC",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-toulouse.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "New York City FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-new-york-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Cerro Porteño",
+    "countryName": "Paraguay",
+    "targetPath": "data/crests/clubs/paraguay-cerro-porteno.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Atlético Mineiro",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-atletico-mineiro.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SE Palmeiras",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-se-palmeiras.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Brighton & Hove Albion FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-brighton-hove-albion.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "US Cremonese",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-cremonese.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Atlanta United FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-atlanta-united.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CA San Lorenzo",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-san-lorenzo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CA Lanús",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-lanus.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "São Paulo FC",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-sao-paulo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CS Independiente Rivadavia",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-cs-independiente-rivadavia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CA Independiente",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-independiente.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Club Olimpia",
+    "countryName": "Paraguay",
+    "targetPath": "data/crests/clubs/paraguay-olimpia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Portsmouth FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-portsmouth.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Red Bull Bragantino",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-red-bull-bragantino.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "CA Talleres",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-talleres.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Levante UD",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-levante.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "APOEL FC",
+    "countryName": "Cyprus",
+    "targetPath": "data/crests/clubs/cyprus-apoel.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Parma",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-parma.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Grazer AK",
+    "countryName": "Austria",
+    "targetPath": "data/crests/clubs/austria-grazer-ak.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Albirex Niigata",
+    "countryName": "Japan",
+    "targetPath": "data/crests/clubs/japan-albirex-niigata.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Melbourne City FC",
+    "countryName": "Australia",
+    "targetPath": "data/crests/clubs/australia-melbourne-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SC Heracles Almelo",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-heracles-almelo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CD Castellón",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-castellon.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Randers FC",
+    "countryName": "Denmark",
+    "targetPath": "data/crests/clubs/denmark-randers.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Watford FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-watford.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Leicester City FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-leicester-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Melbourne Victory FC",
+    "countryName": "Australia",
+    "targetPath": "data/crests/clubs/australia-melbourne-victory.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sydney FC",
+    "countryName": "Australia",
+    "targetPath": "data/crests/clubs/australia-sydney.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Colorado Rapids",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-colorado-rapids.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Machida Zelvia",
+    "countryName": "Japan",
+    "targetPath": "data/crests/clubs/japan-machida-zelvia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Porto",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-porto.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Galatasaray SK",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-galatasaray.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Kasımpaşa SK",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-kas-mpasa.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "RB Leipzig",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-rb-leipzig.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Miami FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-miami.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sparta Rotterdam",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-sparta-rotterdam.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Abha Club",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-abha.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "RKC Waalwijk",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-rkc-waalwijk.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "PEC Zwolle",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-pec-zwolle.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Volendam",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-volendam.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Zürich",
+    "countryName": "Switzerland",
+    "targetPath": "data/crests/clubs/switzerland-zurich.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Iğdır FK",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-igd-r.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "AE Kifisia FC",
+    "countryName": "Greece",
+    "targetPath": "data/crests/clubs/greece-ae-kifisia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SC Telstar",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-telstar.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Maccabi Haifa FC",
+    "countryName": "Israel",
+    "targetPath": "data/crests/clubs/israel-maccabi-haifa.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Rotherham United FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-rotherham-united.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SK Beveren",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-beveren.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Terengganu FC",
+    "countryName": "Malaysia",
+    "targetPath": "data/crests/clubs/malaysia-terengganu.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Kayserispor",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-kayserispor.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sheffield United FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-sheffield-united.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Den Bosch",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-den-bosch.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Konyaspor",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-konyaspor.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "NEC Nijmegen",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-nec-nijmegen.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "VVV Venlo",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-vvv-venlo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sporting CP",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-sporting-cp.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Gil Vicente FC",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-gil-vicente.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "NK Maribor",
+    "countryName": "Slovenia",
+    "targetPath": "data/crests/clubs/slovenia-nk-maribor.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Başakşehir FK",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-basaksehir.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Cercle Brugge",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-cercle-brugge.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sporting Charleroi",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-sporting-charleroi.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Panathinaikos FC",
+    "countryName": "Greece",
+    "targetPath": "data/crests/clubs/greece-panathinaikos.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Trabzonspor",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-trabzonspor.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CA Huracán",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-huracan.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SC Internacional",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-internacional.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Club Brugge",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-brugge.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Independiente Del Valle",
+    "countryName": "Ecuador",
+    "targetPath": "data/crests/clubs/ecuador-independiente-del-valle.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Royal Antwerp FC",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-royal-antwerp.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Venezia FC",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-venezia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CA River Plate",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-river-plate.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CF Pachuca",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-pachuca.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Chelsea FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-chelsea.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Manchester City FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-manchester-city.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AFC Ajax",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-ajax.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SC Corinthians",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-corinthians.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Tottenham Hotspur FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-tottenham-hotspur.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SV Werder Bremen",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-sv-werder-bremen.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sint-Truiden VV",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-sint-truiden-vv.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Real Sociedad",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-real-sociedad.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sanfrecce Hiroshima",
+    "countryName": "Japan",
+    "targetPath": "data/crests/clubs/japan-sanfrecce-hiroshima.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Stade Reims",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-stade-reims.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Le Havre AC",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-le-havre.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC København",
+    "countryName": "Denmark",
+    "targetPath": "data/crests/clubs/denmark-k-benhavn.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "VfL Wolfsburg",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-vfl-wolfsburg.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Derby County FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-derby-county.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "RC Celta Vigo",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-celta-vigo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Udinese",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-udinese.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Holstein Kiel",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-holstein-kiel.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AIK Stockholm",
+    "countryName": "Sweden",
+    "targetPath": "data/crests/clubs/sweden-aik-stockholm.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Mjällby AIF",
+    "countryName": "Sweden",
+    "targetPath": "data/crests/clubs/sweden-mjallby-aif.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Malmö FF",
+    "countryName": "Sweden",
+    "targetPath": "data/crests/clubs/sweden-malmo-ff.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Club Africain",
+    "countryName": "Tunisia",
+    "targetPath": "data/crests/clubs/tunisia-africain.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Servette FC",
+    "countryName": "Switzerland",
+    "targetPath": "data/crests/clubs/switzerland-servette.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Dynamo Makhachkala",
+    "countryName": "Russia",
+    "targetPath": "data/crests/clubs/russia-dynamo-makhachkala.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "1. FC Union Berlin",
+    "countryName": "Germany",
+    "targetPath": "data/crests/clubs/germany-1-union-berlin.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CS Sfaxien",
+    "countryName": "Tunisia",
+    "targetPath": "data/crests/clubs/tunisia-cs-sfaxien.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Espérance De Tunisie",
+    "countryName": "Tunisia",
+    "targetPath": "data/crests/clubs/tunisia-esperance-de-tunisie.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Étoile Du Sahel",
+    "countryName": "Tunisia",
+    "targetPath": "data/crests/clubs/tunisia-etoile-du-sahel.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "IFK Norrköping FK",
+    "countryName": "Sweden",
+    "targetPath": "data/crests/clubs/sweden-ifk-norrkoping.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "US Monastir",
+    "countryName": "Tunisia",
+    "targetPath": "data/crests/clubs/tunisia-monastir.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Zamalek SC",
+    "countryName": "Egypt",
+    "targetPath": "data/crests/clubs/egypt-zamalek.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Pyramids FC",
+    "countryName": "Egypt",
+    "targetPath": "data/crests/clubs/egypt-pyramids.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Real Oviedo",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-real-oviedo.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Najmah SC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-najmah.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "FC Nordsjælland",
+    "countryName": "Denmark",
+    "targetPath": "data/crests/clubs/denmark-nordsj-lland.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "ZED FC",
+    "countryName": "Egypt",
+    "targetPath": "data/crests/clubs/egypt-zed.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "El Gouna FC",
+    "countryName": "Egypt",
+    "targetPath": "data/crests/clubs/egypt-el-gouna.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Tractor Sazi Tabriz FC",
+    "countryName": "Iran",
+    "targetPath": "data/crests/clubs/iran-tractor-sazi-tabriz.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Sepahan SC",
+    "countryName": "Iran",
+    "targetPath": "data/crests/clubs/iran-sepahan.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Persepolis FC",
+    "countryName": "Iran",
+    "targetPath": "data/crests/clubs/iran-persepolis.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Shabab Al Ahli Club",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-shabab-al-ahli.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Rostov",
+    "countryName": "Russia",
+    "targetPath": "data/crests/clubs/russia-rostov.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Nasr SC",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-al-nasr.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Ittihad Kalba SCC",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-al-ittihad-kalba-scc.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Foolad Khuzestan FC",
+    "countryName": "Iran",
+    "targetPath": "data/crests/clubs/iran-foolad-khuzestan.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Wahda SC",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-al-wahda.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Standard Liège",
+    "countryName": "Belgium",
+    "targetPath": "data/crests/clubs/belgium-standard-liege.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Malavan Anzali FC",
+    "countryName": "Iran",
+    "targetPath": "data/crests/clubs/iran-malavan-anzali.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Millwall FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-millwall.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Wellington Phoenix FC",
+    "countryName": "New Zealand",
+    "targetPath": "data/crests/clubs/new-zealand-wellington-phoenix.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Auckland FC",
+    "countryName": "New Zealand",
+    "targetPath": "data/crests/clubs/new-zealand-auckland.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Minnesota United FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-minnesota-united.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Viking Stavanger",
+    "countryName": "Norway",
+    "targetPath": "data/crests/clubs/norway-viking-stavanger.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Peterborough United FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-peterborough-united.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Motherwell FC",
+    "countryName": "Scotland",
+    "targetPath": "data/crests/clubs/scotland-motherwell.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Lechia Gdańsk",
+    "countryName": "Poland",
+    "targetPath": "data/crests/clubs/poland-lechia-gdansk.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Portland Timbers",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-portland-timbers.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "WS Wanderers FC",
+    "countryName": "Australia",
+    "targetPath": "data/crests/clubs/australia-ws-wanderers.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Port Vale FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-port-vale.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AS Saint-Etienne",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-saint-etienne.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Silkeborg IF",
+    "countryName": "Denmark",
+    "targetPath": "data/crests/clubs/denmark-silkeborg-if.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Newcastle United Jets FC",
+    "countryName": "Australia",
+    "targetPath": "data/crests/clubs/australia-newcastle-united-jets.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Braintree Town FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-braintree-town.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Athletic Club",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-athletic.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CA Osasuna",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-osasuna.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "GD Chaves",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-gd-chaves.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SCU Torreense",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-scu-torreense.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Bataeh Club",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-al-bataeh.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Shamrock Rovers FC",
+    "countryName": "Republic of Ireland",
+    "targetPath": "data/crests/clubs/republic-of-ireland-shamrock-rovers.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "FC Krasnodar",
+    "countryName": "Russia",
+    "targetPath": "data/crests/clubs/russia-krasnodar.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CF Estrela Da Amadora",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-estrela-da-amadora.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC FCSB",
+    "countryName": "Romania",
+    "targetPath": "data/crests/clubs/romania-fcsb.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Akron Tolyatti",
+    "countryName": "Russia",
+    "targetPath": "data/crests/clubs/russia-akron-tolyatti.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Apollon Limassol",
+    "countryName": "Cyprus",
+    "targetPath": "data/crests/clubs/cyprus-apollon-limassol.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "PFC Montana",
+    "countryName": "Bulgaria",
+    "targetPath": "data/crests/clubs/bulgaria-pfc-montana.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "PFC Ludogorets Razgrad",
+    "countryName": "Bulgaria",
+    "targetPath": "data/crests/clubs/bulgaria-pfc-ludogorets-razgrad.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Puskás Akadémia FC",
+    "countryName": "Hungary",
+    "targetPath": "data/crests/clubs/hungary-puskas-akademia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SC Farense",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-farense.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AC Omonia",
+    "countryName": "Cyprus",
+    "targetPath": "data/crests/clubs/cyprus-omonia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Vitória SC",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-vitoria.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Casa Pia AC",
+    "countryName": "Portugal",
+    "targetPath": "data/crests/clubs/portugal-casa-pia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "San Diego FC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-san-diego.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "SJK",
+    "countryName": "Finland",
+    "targetPath": "data/crests/clubs/finland-sjk.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Maccabi Tel-Aviv FC",
+    "countryName": "Israel",
+    "targetPath": "data/crests/clubs/israel-maccabi-tel-aviv.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Nassr FC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-nassr.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "RC Lens",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-lens.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Neom SC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-neom.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Ula Saudi FC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-ula-saudi.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "CF Monterrey",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-monterrey.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Fluminense FC",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-fluminense.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Tigres UANL",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-tigres-uanl.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Estudiantes LP",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-estudiantes-lp.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Real Salt Lake",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-real-salt-lake.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Rayo Vallecano",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-rayo-vallecano.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Como",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-como.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Samsunspor",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-samsunspor.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Talaba SC",
+    "countryName": "Iraq",
+    "targetPath": "data/crests/clubs/iraq-al-talaba.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Port FC",
+    "countryName": "Thailand",
+    "targetPath": "data/crests/clubs/thailand-port.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Pogoń Szczecin",
+    "countryName": "Poland",
+    "targetPath": "data/crests/clubs/poland-pogon-szczecin.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Pakhtakor Tashkent FK",
+    "countryName": "Uzbekistan",
+    "targetPath": "data/crests/clubs/uzbekistan-pakhtakor-tashkent.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Al Zawra'a SC",
+    "countryName": "Iraq",
+    "targetPath": "data/crests/clubs/iraq-al-zawra-a.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Al Shorta SC",
+    "countryName": "Iraq",
+    "targetPath": "data/crests/clubs/iraq-al-shorta.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "AEK Larnaca FC",
+    "countryName": "Cyprus",
+    "targetPath": "data/crests/clubs/cyprus-aek-larnaca.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Dhafra SCC",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-al-dhafra-scc.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Luton Town FC",
+    "countryName": "England",
+    "targetPath": "data/crests/clubs/england-luton-town.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Dibba FC",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-dibba.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Nashville SC",
+    "countryName": "United States",
+    "targetPath": "data/crests/clubs/united-states-nashville.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Utrecht",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-utrecht.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Karma SC",
+    "countryName": "Iraq",
+    "targetPath": "data/crests/clubs/iraq-al-karma.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "KS Cracovia",
+    "countryName": "Poland",
+    "targetPath": "data/crests/clubs/poland-ks-cracovia.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Aarhus GF",
+    "countryName": "Denmark",
+    "targetPath": "data/crests/clubs/denmark-aarhus-gf.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Sarpsborg 08 FF",
+    "countryName": "Norway",
+    "targetPath": "data/crests/clubs/norway-sarpsborg-08-ff.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Persib Bandung",
+    "countryName": "Indonesia",
+    "targetPath": "data/crests/clubs/indonesia-persib-bandung.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FK Bodø/Glimt",
+    "countryName": "Norway",
+    "targetPath": "data/crests/clubs/norway-bod-glimt.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CA Boca Juniors",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-boca-juniors.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Stade Nyonnais",
+    "countryName": "Switzerland",
+    "targetPath": "data/crests/clubs/switzerland-stade-nyonnais.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "USM Alger",
+    "countryName": "Algeria",
+    "targetPath": "data/crests/clubs/algeria-usm-alger.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "JS Kabylie",
+    "countryName": "Algeria",
+    "targetPath": "data/crests/clubs/algeria-js-kabylie.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Twente",
+    "countryName": "Netherlands",
+    "targetPath": "data/crests/clubs/netherlands-twente.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Györi ETO FC",
+    "countryName": "Hungary",
+    "targetPath": "data/crests/clubs/hungary-gyori-eto.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Hellas Verona FC",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-hellas-verona.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Granada CF",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-granada.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Frosinone",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-frosinone.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Paris FC",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-paris.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Elche CF",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-elche.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "LASK Linz",
+    "countryName": "Austria",
+    "targetPath": "data/crests/clubs/austria-lask-linz.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Wolfsberger AC",
+    "countryName": "Austria",
+    "targetPath": "data/crests/clubs/austria-wolfsberger.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Hussein SC",
+    "countryName": "Jordan",
+    "targetPath": "data/crests/clubs/jordan-al-hussein.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Al Faisaly SC",
+    "countryName": "Jordan",
+    "targetPath": "data/crests/clubs/jordan-al-faisaly.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "FC Seoul",
+    "countryName": "Korea Republic",
+    "targetPath": "data/crests/clubs/korea-republic-seoul.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Raja Casablanca",
+    "countryName": "Morocco",
+    "targetPath": "data/crests/clubs/morocco-raja-casablanca.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Selangor FC",
+    "countryName": "Malaysia",
+    "targetPath": "data/crests/clubs/malaysia-selangor.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Al Sailiya SC",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/clubs/qatar-al-sailiya.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al-Quwa Al-Jawiya",
+    "countryName": "Iraq",
+    "targetPath": "data/crests/clubs/iraq-al-quwa-al-jawiya.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Qatar SC",
+    "countryName": "Qatar",
+    "targetPath": "data/crests/clubs/qatar-qatar.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Wahdat SC",
+    "countryName": "Jordan",
+    "targetPath": "data/crests/clubs/jordan-al-wahdat.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Al Shabab FC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-shabab.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "RCD Mallorca",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-mallorca.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Widzew Łódź",
+    "countryName": "Poland",
+    "targetPath": "data/crests/clubs/poland-widzew-odz.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "AEL FC",
+    "countryName": "Greece",
+    "targetPath": "data/crests/clubs/greece-ael.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Montpellier HSC",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-montpellier-hsc.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Atromitos FC",
+    "countryName": "Greece",
+    "targetPath": "data/crests/clubs/greece-atromitos.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Spartak Moscow",
+    "countryName": "Russia",
+    "targetPath": "data/crests/clubs/russia-spartak-moscow.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Alanyaspor",
+    "countryName": "Türkiye",
+    "targetPath": "data/crests/clubs/turkiye-alanyaspor.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Noah",
+    "countryName": "Armenia",
+    "targetPath": "data/crests/clubs/armenia-noah.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "RCD Espanyol",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-espanyol.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Jazira",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-al-jazira.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Aris Limassol FC",
+    "countryName": "Cyprus",
+    "targetPath": "data/crests/clubs/cyprus-aris-limassol.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "PFC Navbahor Namangan",
+    "countryName": "Uzbekistan",
+    "targetPath": "data/crests/clubs/uzbekistan-pfc-navbahor-namangan.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "FK Neftchi Farg'ona",
+    "countryName": "Uzbekistan",
+    "targetPath": "data/crests/clubs/uzbekistan-neftchi-farg-ona.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Baniyas Club",
+    "countryName": "United Arab Emirates",
+    "targetPath": "data/crests/clubs/united-arab-emirates-baniyas.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Nasaf Qarshi FC",
+    "countryName": "Uzbekistan",
+    "targetPath": "data/crests/clubs/uzbekistan-nasaf-qarshi.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "FK Dinamo Samarkand",
+    "countryName": "Uzbekistan",
+    "targetPath": "data/crests/clubs/uzbekistan-dinamo-samarkand.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "FK Buxoro",
+    "countryName": "Uzbekistan",
+    "targetPath": "data/crests/clubs/uzbekistan-buxoro.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Surkhon FK",
+    "countryName": "Uzbekistan",
+    "targetPath": "data/crests/clubs/uzbekistan-surkhon.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "OKMK FK",
+    "countryName": "Uzbekistan",
+    "targetPath": "data/crests/clubs/uzbekistan-okmk.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Atlético Nacional",
+    "countryName": "Colombia",
+    "targetPath": "data/crests/clubs/colombia-atletico-nacional.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Atlas FC",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-atlas.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Cagliari",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-cagliari.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Racing Santander",
+    "countryName": "Spain",
+    "targetPath": "data/crests/clubs/spain-racing-santander.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Athletico Paranaense",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-athletico-paranaense.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CA Rosario Central",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-rosario-central.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Nantes",
+    "countryName": "France",
+    "targetPath": "data/crests/clubs/france-nantes.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CA Vélez Sarsfield",
+    "countryName": "Argentina",
+    "targetPath": "data/crests/clubs/argentina-velez-sarsfield.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CR Vasco Da Gama",
+    "countryName": "Brazil",
+    "targetPath": "data/crests/clubs/brazil-cr-vasco-da-gama.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "ACF Fiorentina",
+    "countryName": "Italy",
+    "targetPath": "data/crests/clubs/italy-acf-fiorentina.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC St. Gallen",
+    "countryName": "Switzerland",
+    "targetPath": "data/crests/clubs/switzerland-st-gallen.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "St Patrick's Athletic FC",
+    "countryName": "Republic of Ireland",
+    "targetPath": "data/crests/clubs/republic-of-ireland-st-patrick-s-athletic.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Hearts Of Oak SC",
+    "countryName": "Ghana",
+    "targetPath": "data/crests/clubs/ghana-hearts-of-oak.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Club Nacional",
+    "countryName": "Uruguay",
+    "targetPath": "data/crests/clubs/uruguay-nacional.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "ŠK Slovan Bratislava",
+    "countryName": "Slovakia",
+    "targetPath": "data/crests/clubs/slovakia-slovan-bratislava.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Deportivo Saprissa",
+    "countryName": "Costa Rica",
+    "targetPath": "data/crests/clubs/costa-rica-deportivo-saprissa.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "FC Pari Nizhny Novgorod",
+    "countryName": "Russia",
+    "targetPath": "data/crests/clubs/russia-pari-nizhny-novgorod.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Hapoel Kiryat Shmona FC",
+    "countryName": "Israel",
+    "targetPath": "data/crests/clubs/israel-hapoel-kiryat-shmona.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "FC Juárez",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-juarez.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Club León",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-leon.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Mazatlán FC",
+    "countryName": "Mexico",
+    "targetPath": "data/crests/clubs/mexico-mazatlan.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CD Marathón",
+    "countryName": "Honduras",
+    "targetPath": "data/crests/clubs/honduras-marathon.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "Puerto Cabello CF",
+    "countryName": "Venezuela",
+    "targetPath": "data/crests/clubs/venezuela-puerto-cabello.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CD Plaza Amador",
+    "countryName": "Panama",
+    "targetPath": "data/crests/clubs/panama-plaza-amador.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "CD Universidad Católica",
+    "countryName": "Ecuador",
+    "targetPath": "data/crests/clubs/ecuador-universidad-catolica.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "CD Universidad De Concepción",
+    "countryName": "Chile",
+    "targetPath": "data/crests/clubs/chile-universidad-de-concepcion.svg",
+    "found": false
+  },
+  {
+    "type": "club",
+    "name": "CD Cobresal",
+    "countryName": "Chile",
+    "targetPath": "data/crests/clubs/chile-cobresal.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Al Fayha FC",
+    "countryName": "Saudi Arabia",
+    "targetPath": "data/crests/clubs/saudi-arabia-al-fayha.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Turan Tovuz",
+    "countryName": "Azerbaijan",
+    "targetPath": "data/crests/clubs/azerbaijan-turan-tovuz.svg",
+    "found": true
+  },
+  {
+    "type": "club",
+    "name": "Deportivo La Guaira",
+    "countryName": "Venezuela",
+    "targetPath": "data/crests/clubs/venezuela-deportivo-la-guaira.svg",
+    "found": false
+  }
+]

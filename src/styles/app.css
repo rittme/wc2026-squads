@@ -1,0 +1,523 @@
+/* ---------------------------------- */
+/* Header                              */
+/* ---------------------------------- */
+
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.app-header__inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: var(--space-4) var(--space-5);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-6);
+  height: 72px;
+}
+
+.app-header__brand {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-2);
+  white-space: nowrap;
+}
+
+.app-header__logo {
+  height: 3rem;
+}
+
+.app-header__title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.01em;
+}
+
+.app-header__subtitle {
+  font-family: var(--font-mono);
+  color: var(--color-accent);
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.app-header__search {
+  flex: 1;
+  max-width: 380px;
+  position: relative;
+  margin-left: auto;
+}
+
+/* ---------------------------------- */
+/* Search                              */
+/* ---------------------------------- */
+
+.search-bar {
+  position: relative;
+}
+
+.search-bar__input {
+  width: 100%;
+  padding: var(--space-2) var(--space-4);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-sunken);
+  font-size: var(--font-size-sm);
+  transition: border-color 160ms ease, background 160ms ease,
+    box-shadow 160ms ease, transform 100ms ease-out;
+}
+
+.search-bar__input::placeholder {
+  color: var(--color-text-faint);
+}
+
+.search-bar__input:focus {
+  background: var(--color-surface);
+  border-color: var(--color-accent);
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-accent-tint);
+}
+
+.search-bar__input:active {
+  transform: scale(0.99);
+}
+
+.search-bar__results {
+  position: absolute;
+  top: calc(100% + var(--space-2));
+  left: 0;
+  right: 0;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  max-height: 360px;
+  overflow-y: auto;
+  box-shadow: 0 16px 40px -8px rgba(28, 27, 24, 0.18);
+  transform-origin: top center;
+  animation: dropIn 160ms var(--ease-out);
+}
+
+@keyframes dropIn {
+  from {
+    opacity: 0;
+    transform: translateY(-2px) scale(0.99);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.search-bar__result a {
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-3) var(--space-4);
+  border-bottom: 1px solid var(--color-border);
+  transition: background 120ms ease;
+}
+
+.search-bar__result:last-child a {
+  border-bottom: none;
+}
+
+.search-bar__result a:hover {
+  background: var(--color-accent-tint);
+}
+
+.search-bar__result-name {
+  font-weight: 600;
+}
+
+.search-bar__result-meta {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+}
+
+.search-bar__empty {
+  padding: var(--space-4);
+  color: var(--color-text-muted);
+  font-size: var(--font-size-sm);
+}
+
+.search-bar__group-label {
+  padding: var(--space-2) var(--space-4) 4px;
+  font-family: var(--font-mono);
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-faint);
+}
+
+/* ---------------------------------- */
+/* Main layout                         */
+/* ---------------------------------- */
+
+#view-root {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: var(--space-6) var(--space-5) var(--space-8);
+  animation: viewFadeIn 200ms var(--ease-out);
+}
+
+@keyframes viewFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ---------------------------------- */
+/* Teams view                          */
+/* ---------------------------------- */
+
+.group-section {
+  margin-bottom: var(--space-7);
+}
+
+.group-section__title {
+  font-family: var(--font-mono);
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--color-text-faint);
+  margin-bottom: var(--space-3);
+  padding-bottom: var(--space-2);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.group-section__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: var(--space-3);
+}
+
+.team-card {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-4);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  transition: transform 160ms var(--ease-out), border-color 160ms ease,
+    box-shadow 160ms var(--ease-out);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .team-card:hover {
+    border-color: var(--color-accent);
+    transform: translateY(-3px);
+    box-shadow: 0 12px 24px -10px rgba(28, 27, 24, 0.16);
+  }
+}
+
+.team-card:active {
+  transform: scale(0.98);
+  transition-duration: 100ms;
+}
+
+.team-card:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: var(--radius-md);
+}
+
+.team-card__flag {
+  font-size: 2.25rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.team-card__crest {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.team-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.team-card__name {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: var(--font-size-base);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.team-card__meta {
+  font-family: var(--font-mono);
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  letter-spacing: 0.04em;
+}
+
+/* ---------------------------------- */
+/* Roster view                         */
+/* ---------------------------------- */
+
+.roster-view__back {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+  margin-bottom: var(--space-5);
+  color: var(--color-text-muted);
+  font-size: var(--font-size-sm);
+  transition: color 140ms ease, transform 140ms var(--ease-out);
+}
+
+.roster-view__back:hover {
+  color: var(--color-accent);
+  transform: translateX(-2px);
+}
+
+.roster-view__header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-5);
+  margin-bottom: var(--space-7);
+  padding-bottom: var(--space-5);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.roster-view__flag {
+  font-size: 3.5rem;
+  line-height: 1;
+}
+
+.roster-view__name {
+  font-size: var(--font-size-2xl);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+}
+
+.roster-view__meta {
+  font-family: var(--font-mono);
+  color: var(--color-text-muted);
+  font-size: var(--font-size-sm);
+  margin-top: var(--space-1);
+}
+
+.roster-view__crest {
+  width: 84px;
+  height: 84px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.club-header__initials {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+  border-radius: var(--radius-md);
+  background: var(--color-accent-tint);
+  color: var(--color-accent-strong);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: var(--font-size-lg);
+}
+
+.club-header__stat-line {
+  font-family: var(--font-mono);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin-top: var(--space-2);
+}
+
+.not-found {
+  color: var(--color-text-muted);
+}
+
+/* ---------------------------------- */
+/* Squad table (FM-style)              */
+/* ---------------------------------- */
+
+.squad-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.squad-table thead tr {
+  background: var(--color-surface-sunken);
+}
+
+.squad-table th {
+  font-family: var(--font-mono);
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-faint);
+  text-align: left;
+  padding: var(--space-3) var(--space-4);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.squad-table__col-number,
+.squad-table__col-pos,
+.squad-table__col-age {
+  text-align: center;
+  width: 1%;
+}
+
+.squad-table__col-counterpart {
+  text-align: right;
+}
+
+.squad-table__row td {
+  padding: var(--space-3) var(--space-4);
+  border-bottom: 1px solid var(--color-border);
+  transition: background 120ms ease;
+}
+
+.squad-table__row:last-child td {
+  border-bottom: none;
+}
+
+.squad-table__row:hover td {
+  background: var(--color-surface-sunken);
+}
+
+.squad-table__col-number {
+  font-family: var(--font-mono);
+  font-weight: 600;
+  color: var(--color-text-faint);
+  font-size: var(--font-size-sm);
+  text-align: center;
+}
+
+.squad-table__col-player {
+  font-weight: 500;
+}
+
+.squad-table__col-age {
+  font-family: var(--font-mono);
+  color: var(--color-text-muted);
+  font-size: var(--font-size-sm);
+  text-align: center;
+}
+
+.squad-table__counterpart {
+  text-align: right;
+}
+
+.squad-table__counterpart-name {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--space-2);
+  font-weight: 500;
+}
+
+.squad-table__counterpart-link:hover {
+  color: var(--color-accent);
+}
+
+.squad-table__counterpart-country {
+  display: block;
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+}
+
+.squad-table__crest {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+/* ---------------------------------- */
+/* Position chips                      */
+/* ---------------------------------- */
+
+.position-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 32px;
+  padding: 2px var(--space-2);
+  border-radius: var(--radius-pill);
+  font-family: var(--font-mono);
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.position-chip--gk {
+  background: var(--pos-gk-tint);
+  color: var(--pos-gk);
+}
+
+.position-chip--df {
+  background: var(--pos-df-tint);
+  color: var(--pos-df);
+}
+
+.position-chip--mf {
+  background: var(--pos-mf-tint);
+  color: var(--pos-mf);
+}
+
+.position-chip--fw {
+  background: var(--pos-fw-tint);
+  color: var(--pos-fw);
+}
+
+/* ---------------------------------- */
+/* Responsive                          */
+/* ---------------------------------- */
+
+@media (max-width: 640px) {
+  .app-header__subtitle {
+    display: none;
+  }
+
+  .app-header__search {
+    max-width: 200px;
+  }
+
+  .roster-view__flag {
+    font-size: 2.5rem;
+  }
+
+  .roster-view__crest,
+  .club-header__initials {
+    width: 48px;
+    height: 48px;
+  }
+
+  .roster-view__name {
+    font-size: var(--font-size-xl);
+  }
+
+  .squad-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
