@@ -412,6 +412,7 @@
 
 .squad-table__col-player {
   font-weight: 500;
+  line-height: 1.2;
 }
 
 .squad-table__col-age {
@@ -431,6 +432,7 @@
   justify-content: flex-end;
   gap: var(--space-2);
   font-weight: 500;
+  line-height: 1.2;
 }
 
 .squad-table__counterpart-link:hover {
@@ -517,7 +519,72 @@
 
   .squad-table {
     display: block;
-    overflow-x: auto;
-    white-space: nowrap;
+    overflow: visible;
+    white-space: normal;
+    background: transparent;
+    border: none;
+    border-radius: 0;
+  }
+
+  .squad-table thead {
+    display: none;
+  }
+
+  .squad-table tbody {
+    display: block;
+  }
+
+  .squad-table__row {
+    display: grid;
+    grid-template-columns: auto 1fr auto auto;
+    grid-template-areas:
+      "number player pos age"
+      ".      counterpart counterpart counterpart";
+    column-gap: var(--space-3);
+    row-gap: var(--space-1);
+    align-items: center;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: var(--space-4);
+    margin-bottom: var(--space-2);
+  }
+
+  .squad-table__row:last-child {
+    margin-bottom: 0;
+  }
+
+  .squad-table__row td {
+    padding: 0;
+    border-bottom: none;
+  }
+
+  .squad-table__col-number {
+    grid-area: number;
+  }
+
+  .squad-table__col-player {
+    grid-area: player;
+  }
+
+  .squad-table__col-pos {
+    grid-area: pos;
+  }
+
+  .squad-table__col-age {
+    grid-area: age;
+  }
+
+  .squad-table__counterpart {
+    grid-area: counterpart;
+    text-align: right;
+  }
+
+  .squad-table__counterpart-name {
+    justify-content: flex-end;
+  }
+
+  .squad-table__row .squad-table__counterpart {
+    padding-top: var(--space-2);
   }
 }
