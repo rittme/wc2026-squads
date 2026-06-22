@@ -28,3 +28,19 @@ export function formatMarketValueTooltip(marketValue) {
   if (!marketValue || marketValue.peak <= marketValue.current) return null;
   return `Peak: ${formatEur(marketValue.peak)}`;
 }
+
+export function compareByNumber(a, b) {
+  return a.number - b.number;
+}
+
+export function compareByName(a, b) {
+  return a.name.localeCompare(b.name);
+}
+
+export function compareByAge(a, b) {
+  return a.age - b.age;
+}
+
+export function compareByValue(a, b) {
+  return (a.marketValue?.current ?? -1) - (b.marketValue?.current ?? -1);
+}

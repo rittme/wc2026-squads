@@ -8,7 +8,7 @@
 // of expected filenames; Re-run this script and it
 // will pick up whatever files exist under src/data/crests/{teams,clubs}/.
 
-import { writeFile, mkdir, access } from "node:fs/promises";
+import { writeFile, mkdir, access, readFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
@@ -48,6 +48,53 @@ function slugify(name) {
   }
 
   return slug.replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
+function unaccent(name) {
+  return name.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().trim();
+}
+
+// Market values come from a separate source. It only covers ~65% of
+// WC squads - players without a match in data/player-values.json simply get
+// no marketValue field, and the UI shows "-" for them.
+async function loadMarketValueLookup(rootDir) {
+  const valuesPath = path.join(rootDir, "data", "player-values.json");
+  if (!(await fileExists(valuesPath))) {
+    console.warn(
+      `${valuesPath} not found - skipping market value merge (run "npm run extract:values" first)`,
+    );
+    return new Map();
+  }
+
+  const records = JSON.parse(await readFile(valuesPath, "utf8"));
+  const byName = new Map();
+  for (const record of records) {
+    const key = unaccent(record.name);
+    if (!byName.has(key)) byName.set(key, []);
+    byName.get(key).push(record);
+  }
+  return byName;
+}
+
+function findMarketValue(byName, player) {
+  const candidates = byName.get(unaccent(player.name));
+  if (!candidates || candidates.length === 0) return null;
+
+  let match = candidates[0];
+  if (candidates.length > 1) {
+    const byDob = candidates.filter(
+      (c) => c.dateOfBirth === player.dateOfBirth,
+    );
+    if (byDob.length !== 1) return null;
+    match = byDob[0];
+  }
+
+  if (match.marketValueInEur == null && match.highestMarketValueInEur == null)
+    return null;
+  return {
+    current: match.marketValueInEur / 1e6,
+    peak: (match.highestMarketValueInEur ?? match.marketValueInEur) / 1e6,
+  };
 }
 
 async function fileExists(absPath) {
@@ -240,6 +287,16 @@ async function main() {
     countryCodes[code] = COUNTRY_CODES[code];
   }
 
+  const marketValueByName = await loadMarketValueLookup(rootDir);
+  let marketValueMatches = 0;
+  for (const player of players) {
+    const marketValue = findMarketValue(marketValueByName, player);
+    if (marketValue) {
+      player.marketValue = marketValue;
+      marketValueMatches++;
+    }
+  }
+
   // Crests: manual sourcing only (see header comment). A team/club gets a
   // crestUrl if and only if a file already exists at its expected path under
   // src/data/crests/. Anything missing falls back to the flag emoji (teams)
@@ -308,6 +365,9 @@ async function main() {
   console.log(`Wrote ${outPath}`);
   console.log(`groups: ${groups.length}, teams: ${teams.length}, players: ${players.length}`);
   console.log(`crests on disk: ${teamsFound}/${teamsTotal} teams, ${clubsFound}/${clubsTotal} clubs`);
+  console.log(
+    `market values matched: ${marketValueMatches}/${players.length} players`,
+  );
   console.log(`Wrote full manifest (incl. source hints) to ${manifestPath}`);
 }
 
