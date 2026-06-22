@@ -379,7 +379,8 @@
 
 .squad-table__col-number,
 .squad-table__col-pos,
-.squad-table__col-age {
+.squad-table__col-age,
+.squad-table__col-value {
   text-align: center;
   width: 1%;
 }
@@ -420,6 +421,18 @@
   color: var(--color-text-muted);
   font-size: var(--font-size-sm);
   text-align: center;
+}
+
+.squad-table__col-value {
+  font-family: var(--font-mono);
+  color: var(--color-text-muted);
+  font-size: var(--font-size-sm);
+  text-align: center;
+}
+
+.squad-table__value-tooltip {
+  cursor: help;
+  border-bottom: 1px dotted var(--color-text-faint);
 }
 
 .squad-table__counterpart {
@@ -539,7 +552,7 @@
     grid-template-columns: auto 1fr auto auto;
     grid-template-areas:
       "number player pos age"
-      ".      counterpart counterpart counterpart";
+      "value  counterpart counterpart counterpart";
     column-gap: var(--space-3);
     row-gap: var(--space-1);
     align-items: center;
@@ -573,6 +586,11 @@
 
   .squad-table__col-age {
     grid-area: age;
+  }
+
+  .squad-table__col-value {
+    grid-area: value;
+    text-align: left;
   }
 
   .squad-table__counterpart {

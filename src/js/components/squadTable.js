@@ -1,4 +1,4 @@
-import { POSITION_ORDER } from "../utils/format.js";
+import { POSITION_ORDER, formatMarketValue, formatMarketValueTooltip } from "../utils/format.js";
 
 const POSITION_CHIP_CLASS = {
   GK: "position-chip--gk",
@@ -44,6 +44,7 @@ export function renderSquadTable(players, { counterpartLabel, getCounterpart }) 
         <th class="squad-table__col-player">Player</th>
         <th class="squad-table__col-pos">Pos</th>
         <th class="squad-table__col-age">Age</th>
+        <th class="squad-table__col-value">Value</th>
         <th class="squad-table__col-counterpart" colspan="1">${counterpartLabel}</th>
       </tr>
     </thead>
@@ -57,6 +58,12 @@ export function renderSquadTable(players, { counterpartLabel, getCounterpart }) 
     const row = document.createElement("tr");
     row.className = "squad-table__row";
 
+    const valueText = formatMarketValue(player.marketValue);
+    const valueTooltip = formatMarketValueTooltip(player.marketValue);
+    const valueMarkup = valueTooltip
+      ? `<span class="squad-table__value-tooltip" title="${valueTooltip}">${valueText}</span>`
+      : valueText;
+
     row.innerHTML = `
       <td class="squad-table__col-number">${player.number}</td>
       <td class="squad-table__col-player">${player.name}</td>
@@ -64,6 +71,7 @@ export function renderSquadTable(players, { counterpartLabel, getCounterpart }) 
         <span class="position-chip ${POSITION_CHIP_CLASS[player.pos]}">${player.pos}</span>
       </td>
       <td class="squad-table__col-age">${player.age}</td>
+      <td class="squad-table__col-value">${valueMarkup}</td>
       ${renderCounterpartCell(counterpart)}
     `;
 

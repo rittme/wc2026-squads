@@ -14,3 +14,17 @@ export function groupPlayersByPosition(players) {
   }
   return byPos;
 }
+
+function formatEur(millions) {
+  return millions >= 1 ? `€${millions.toFixed(1)}m` : `€${Math.round(millions * 1000)}k`;
+}
+
+export function formatMarketValue(marketValue) {
+  if (!marketValue) return "—";
+  return formatEur(marketValue.current);
+}
+
+export function formatMarketValueTooltip(marketValue) {
+  if (!marketValue || marketValue.peak <= marketValue.current) return null;
+  return `Peak: ${formatEur(marketValue.peak)}`;
+}
